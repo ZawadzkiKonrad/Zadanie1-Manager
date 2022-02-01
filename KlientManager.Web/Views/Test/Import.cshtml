@@ -1,0 +1,39 @@
+﻿@model KlientManager.Application.ViewModels.Import.ImportVm
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<div class="input-group mb-3">
+    <form method="post" asp-controller="Test" asp-action="Import" enctype="multipart/form-data">
+         <select asp-for="FileTypeId" id="list2" class="form-control">
+                <option>Wybierz typ pliku</option>
+            </select>
+        <div class="custom-file">
+            <input type="file" name="file" class="custom-file-input" id="inputGroupFile03">
+
+            <button type="submit" class="btn btn-success" style="margin-top: 1em; margin-bottom:2em" asp-action="Import">Import</button>
+        </div>
+    </form>
+
+  
+</div>
+@section Scripts {
+
+<script>
+    var sel2 = document.getElementById('list2');
+
+  var opt = document.createElement('option');
+  opt.text = "CSV";
+  opt.value = 1;
+  sel2.appendChild(opt);
+  var opt2 = document.createElement('option');
+  opt2.text = "XLSX";
+  opt2.value = 2;
+  sel2.appendChild(opt2);
+
+</script>
+}

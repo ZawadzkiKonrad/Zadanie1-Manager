@@ -1,0 +1,373 @@
+﻿++Solution 'KlientManager.Web' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:KlientManager.Web.sln
+++Application
+i:{00000000-0000-0000-0000-000000000000}:Application
+++KlientManager.Application
+i:{35f51f43-22e7-44fa-8728-f41caa1def60}:KlientManager.Application
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\klientmanager.application.csproj
+++Dependencies
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>630
+i:{44a73fda-674d-47a3-acca-777527b8f067}:>667
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>631
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1079
+++Interfaces
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\interfaces\
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\interfaces\
+++IKlientService.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\interfaces\iklientservice.cs
+++Mapping
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\mapping\
+++IMapFrom.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\mapping\imapfrom.cs
+++KlientMap.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\mapping\klientmap.cs
+++MappingProfile.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\mapping\mappingprofile.cs
+++Services
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\services\
+++KlientService.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\services\klientservice.cs
+++ViewModels
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\viewmodels\
+++Import
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\viewmodels\import\
+++ImportVm.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\viewmodels\import\importvm.cs
+++Klient
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\viewmodels\klient\
+++KlientVm.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\viewmodels\klient\klientvm.cs
+++DependencyInjection.cs
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\dependencyinjection.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\dependencyinjection.cs
+++Analyzers
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:analyzers
+i:{44a73fda-674d-47a3-acca-777527b8f067}:analyzers
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:analyzers
+++Frameworks
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:frameworks
+i:{44a73fda-674d-47a3-acca-777527b8f067}:frameworks
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:frameworks
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:frameworks
+++Packages
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:packages
+i:{44a73fda-674d-47a3-acca-777527b8f067}:packages
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:packages
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:packages
+++Projects
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:projects
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:projects
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.application\microsoft.netcore.app
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\microsoft.netcore.app
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\microsoft.netcore.app
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\microsoft.netcore.app
+++AutoMapper (11.0.0)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1111
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1109
+++CsvHelper (27.2.1)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1171
+++DocumentFormat.OpenXml (2.15.0)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1207
+i:{44a73fda-674d-47a3-acca-777527b8f067}:>1205
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1206
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1208
+++EPPlus (5.8.5)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1209
+++Microsoft.AspNet.Mvc (5.2.7)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1110
+++Microsoft.AspNetCore.Http.Features (5.0.13)
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:>1108
+++KlientManager.Domain
+i:{5c41e2c5-53ff-435d-ada9-9b9dcc3fe323}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\klientmanager.domain.csproj
+i:{00000000-0000-0000-0000-000000000000}:KlientManager.Domain
+i:{0ef342f9-a675-4bc5-8cbb-215da3176e65}:KlientManager.Domain
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\klientmanager.domain.csproj
+++Entity
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\entity\
+++Klienci.cs
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\entity\klienci.cs
+++IKlientRepository.cs
+i:{44a73fda-674d-47a3-acca-777527b8f067}:c:\users\admin\source\repos\klientmanager.web\klientmanager.domain\interfaces\iklientrepository.cs
+++KlientManager.Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:KlientManager.Infrastructure
+i:{aedf5e2e-5d2b-4acd-b393-1e6c63b99f9e}:KlientManager.Infrastructure
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\klientmanager.infrastructure.csproj
+++Migrations
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\
+++Repositories
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\repositories\
+++KlientRepository.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\repositories\klientrepository.cs
+++Context.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\context.cs
+++20220128131333_Initial1.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\20220128131333_initial1.cs
+++20220131083755_InitialCreate2.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\20220131083755_initialcreate2.cs
+++ContextModelSnapshot.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\contextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.1)
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1121
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1120
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1124
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.3)
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1123
+++Npgsql.EntityFrameworkCore.PostgreSQL.Design (1.1.0)
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:>1122
+++20220128131333_Initial1.Designer.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\20220128131333_initial1.designer.cs
+++20220131083755_InitialCreate2.Designer.cs
+i:{db60070b-69a6-4e19-8d0d-8509cbdda641}:c:\users\admin\source\repos\klientmanager.web\klientmanager.infrastructure\migrations\20220131083755_initialcreate2.designer.cs
+++KlientManager.Web
+i:{00000000-0000-0000-0000-000000000000}:KlientManager.Web
+++Connected Services 
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1080
+++Properties
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\properties\
+++wwwroot
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\
+++Controllers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\controllers\
+++HomeController.cs
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\controllers\homecontroller.cs
+++TestController.cs
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\controllers\testcontroller.cs
+++Models
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\models\
+++Views
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\
+++Home
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\home\
+++Shared
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\shared\
+++Test
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\test\
+++Create.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\test\create.cshtml
+++Edit.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\test\edit.cshtml
+++Import.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\test\import.cshtml
+++Index.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\test\index.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\home\index.cshtml
+++_ViewImports.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\_viewstart.cshtml
+++appsettings.json
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\appsettings.json
+++Program.cs
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\program.cs
+++No service dependencies discovered
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1081
+++launchSettings.json
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\properties\launchsettings.json
+++css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\css\
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\js\
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\
+++favicon.ico
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\favicon.ico
+++ErrorViewModel.cs
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\models\errorviewmodel.cs
+++Privacy.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\shared\error.cshtml
+++appsettings.Development.json
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\appsettings.development.json
+++MessagePackAnalyzer
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\microsoft.aspnetcore.app
+++ClosedXML (0.95.4)
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1176
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1092
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:>1093
+++site.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\css\site.css
+++site.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\js\site.js
+++bootstrap
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\
+++jquery
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\views\shared\_layout.cshtml.css
+++dist
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\dist\
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\license.txt
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{a6d8ce45-ab14-413b-a7f8-168536b82c0e}:c:\users\admin\source\repos\klientmanager.web\klientmanager.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

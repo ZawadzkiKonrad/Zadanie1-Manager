@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6d8ce45-ab14-413b-a7f8-168536b82c0e": {
+      "ProjectGuid": "a6d8ce45-ab14-413b-a7f8-168536b82c0e",
+      "DisplayName": "KlientManager.Web",
+      "ColorIndex": 0
+    },
+    "5c41e2c5-53ff-435d-ada9-9b9dcc3fe323": {
+      "ProjectGuid": "5c41e2c5-53ff-435d-ada9-9b9dcc3fe323",
+      "DisplayName": "KlientManager.Application",
+      "ColorIndex": 1
+    },
+    "44a73fda-674d-47a3-acca-777527b8f067": {
+      "ProjectGuid": "44a73fda-674d-47a3-acca-777527b8f067",
+      "DisplayName": "KlientManager.Domain",
+      "ColorIndex": 2
+    },
+    "db60070b-69a6-4e19-8d0d-8509cbdda641": {
+      "ProjectGuid": "db60070b-69a6-4e19-8d0d-8509cbdda641",
+      "DisplayName": "KlientManager.Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fbc5bcfc-053b-4b7c-aee5-2f288760387c": {
+      "ProjectGuid": "fbc5bcfc-053b-4b7c-aee5-2f288760387c",
+      "DisplayName": "Entity",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,89 @@
+﻿@model KlientManager.Application.ViewModels.Klient.KlientVm
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Nowy Klient</h1>
+
+<h4>KlientVm</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PESEL" class="control-label"></label>
+                <input asp-for="PESEL" class="form-control" />
+                <span asp-validation-for="PESEL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BirthYear" class="control-label"></label>
+                <input id="BirthYearFake"class="form-control" disabled />
+                <input asp-for="BirthYear" class="form-control" type="hidden" /> @*ukryty input, ponieeaz przy disabled nie przesyla danych daj, dlatego zrobilem BirthYearFake*@
+                <span asp-validation-for="BirthYear" class="text-danger"></span>
+            </div>
+          
+            <div class="form-group">
+                <label asp-for="SexName" class="control-label"></label>
+                <input id="SexNameFake"class="form-control" disabled />
+                <input asp-for="SexName" class="form-control" type="hidden" />
+                <span asp-validation-for="SexName" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Zapisz" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-action="Index" asp-controller="Test" class="btn btn-info">Powrót do listy</a>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+
+<script>
+         $(document).ready(function () {
+
+                $('#PESEL').change(function () {
+
+                    var typeId = $(this).val();
+
+                    if (typeId[9] %2===0 ) {
+                        $('#SexName').val("Kobieta");
+                        $('#SexNameFake').val("Kobieta");
+                    }else{
+                        $('#SexName').val("Mężczyzna");
+                        $('#SexNameFake').val("Mężczyzna");
+                    }
+
+                    var birthYear= typeId[0]+typeId[1];
+                    if(birthYear>20){
+                    $('#BirthYear').val("19"+birthYear);
+                    $('#BirthYearFake').val("19"+birthYear);
+                    }else
+                    {
+                    $('#BirthYear').val("20"+birthYear);
+                    $('#BirthYearFake').val("20"+birthYear);
+                    }
+                });
+            });
+
+</script>
+}

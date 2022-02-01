@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g37vjzZE25t9Yq2eDxXxCKRDtxM58UeoPXRUrj9ecRM/ZZIezrDwmIS9Hio/I7zMjZ8AF8owWy9zVwu05Q0HQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\KlientManager.Web\\KlientManager.Domain\\KlientManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

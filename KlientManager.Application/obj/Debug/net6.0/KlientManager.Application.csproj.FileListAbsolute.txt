@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\KlientManager.Application.deps.json
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\KlientManager.Application.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\ref\KlientManager.Application.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\KlientManager.Application.pdb
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\KlientManager.Domain.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\bin\Debug\net6.0\KlientManager.Domain.pdb
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\ref\KlientManager.Application.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Application\obj\Debug\net6.0\KlientManager.Application.pdb

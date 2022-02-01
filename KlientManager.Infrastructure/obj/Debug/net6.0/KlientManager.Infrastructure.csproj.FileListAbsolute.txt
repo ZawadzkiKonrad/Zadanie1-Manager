@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Infrastructure.deps.json
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Infrastructure.runtimeconfig.json
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Infrastructure.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\ref\KlientManager.Infrastructure.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Infrastructure.pdb
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Domain.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\bin\Debug\net6.0\KlientManager.Domain.pdb
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\ref\KlientManager.Infrastructure.dll
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.pdb
+C:\Users\Admin\source\repos\KlientManager.Web\KlientManager.Infrastructure\obj\Debug\net6.0\KlientManager.Infrastructure.genruntimeconfig.cache
